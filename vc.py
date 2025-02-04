@@ -8,7 +8,7 @@ from youtube_dl import YoutubeDL
 # Replace these with your own values
 API_ID = "27152769"
 API_HASH = "b98dff566803b43b3c3120eec537fc1d"
-BOT_TOKEN = "b98dff566803b43b3c3120eec537fc1d"
+BOT_TOKEN = "8120903065:AAHteYq0QAIMqPypZq_Gt9B3qHw6J4rEF60"
 
 # Initialize the Pyrogram client
 app = Client("vc_music_bot", api_id=API_ID, api_hash=API_HASH, bot_token=BOT_TOKEN)
