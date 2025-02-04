@@ -24,7 +24,10 @@ YDL_OPTIONS = {
         }
     ],
     "outtmpl": "downloads/%(title)s.%(ext)s",
+    "cookiefile": "cookies.txt"  # Add this line to use your cookies
 }
+
+
 
 # Dictionary to track VC status per chat
 vc_status = {}
